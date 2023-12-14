@@ -1,0 +1,29 @@
+Category,Risk scale
+Political Intelligence,"Does my organization contribute to the policy-making of our home country?
+Is my organization involved in activities related to our country's foreign policy?
+Does my organization have individuals influential in policy-making within our organization?
+Do any of the companies my organization is in business with meet any of the above conditions?"
+Economic Intelligence,"Does my organization engage in significant export activities?
+Does my organization conduct business activities outside our home country?
+Does my organization possess intellectual properties that provide a significant commercial advantage?
+Is my organization a publicly traded company with a high volume of trade?
+Does my organization provide products or services to governments of other countries?
+Do any of the companies my organization is in business with meet any of the above conditions?"
+Communication Intelligence,"Is my organization a provider of communication products or infrastructure?
+Does my organization have government agencies among our clients?
+Do any of the companies my organization is in business with meet any of the above conditions?"
+Financial Intelligence,"Is my organization a provider of financial transaction products or infrastructure?
+Do any of the companies my organization is in business with meet any of the above conditions?"
+Geospatial Intelligence,"Does my organization's product or service collect location data from users?
+Does my organization process geographic or imagery data?
+Do any of the companies my organization is in business with meet any of the above conditions?"
+Technical Intelligence,"Does my organization conduct research and development in science and technology?
+Is my organization's research and development directed towards an active market?
+Does my organization's research and development topic have military applications?
+Are there other countries investing in the same field as my organization?
+Do any of the companies my organization is in business with meet any of the above conditions?"
+Military Intelligence,"Does my organization develop or contribute to the development of products, systems, or services for military use?
+Is my organization a provider of widely used communication infrastructure?
+Does my organization own patents or intellectual properties that could be used for military purposes?
+Does my organization conduct technological research that could be used for military purposes?
+Do any of the companies my organization is in business with meet any of the above conditions?"
