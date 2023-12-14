@@ -1,0 +1,16 @@
+"Below example is fictional and taken from: https://robindimyan.medium.com/geopolitical-cyber-risk-going-beyond-the-industry-and-region-3581465c7e3f
+
+Located in Ukraine, TechNovelties is a firm that specializes in producing custom parts, catering to a wide range of clients in this area.
+It supplies a critical component for the UAVs of a Turkish defense industry client. Here is what is known about the relationship between these two companies:
+
+1. The company TechNovelties, based in Ukraine, is responsible for producing an essential part for the Armed Unmanned Aerial Vehicles (UAVs) that are made by the Turkish firm SkyDefend Innovations.
+2. A portion of these UAVs from SkyDefend is incorporated into the arsenal of the Turkish Armed Forces.
+3. Additionally, some of these UAVs are exported to Pakistan, where they are added to the Pakistani armed forces’ inventory.
+4. Pakistan aims to use these UAVs to counterbalance certain military threats posed by China",,,,,
+Collection,Targeting,Country,Why?,Known capabilities,Associated APT groups
+Political-Intel,Tactical,RUSSIA,"Given its active conflict with Ukraine, Russia might be interested in TechNovelties, especially because it exports to defense industry companies, making it an attractive target for Russia.",Sophisticated Signals Intelligence (SIGINT) and Electronic Warfare units. Historical use of advanced event-based capabilities. A worldwide network of agents capable of either assisting with or serving as an alternative to cyber operations.,"APT28, Sandworm Team, Gamaredon Group, Skipper Turla"
+Military-Intel,Strategic,GREECE,"The capability of these Turkish UAVs to shift the balance of power in the Aegean Sea is a known source of concern for Greece. In pursuit of insights into Turkey's UAV production capabilities and the quantity of UAVs in the TSK's arsenal, Greek intelligence might try to infiltrate TechNovelties to determine the annual volume of parts supplied to SkyDefend Innovations.",...,...
+Military-Intel,Tactical,ARMENIA,"The effective use of UAVs manufactured by SkyDefend Innovations by the Azerbaijani military in the recent Nagorno-Karabakh conflict is well-documented. Consequently, Armenian intelligence could be interested in acquiring the technical specifications of the components made by TechNovelties, aiming to devise electronic warfare strategies to counter the UAV capabilities of Azerbaijan.",...,...
+Military-Intel,Strategic,INDIA,"India, viewing the UAVs acquired by Pakistan as a potential threat, may consider infiltrating TechNovelties, paralleling Armenia’s approach.",...,...
+Economic-Intel,Tactical,FRANCE,"Targeting the Asian market, French manufacturers are intent on selling their drones to Pakistan’s armed forces. To support this aim, French intelligence might attempt to penetrate TechNovelties to further leverage this entry point into SkyDefend Innovations’ systems, thereby uncovering the prices at which SkyDefend sells its UAVs to Pakistan.",...,...
+Technical-Intel,Strategic,TAIWAN,"For several years, Taiwan has been aspiring to develop UAV production capabilities. As a result, any entity (along with their suppliers) involved in manufacturing this technology would naturally be of interest to Taiwanese intelligence.",...,...
